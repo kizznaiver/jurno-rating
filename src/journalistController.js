@@ -2,8 +2,10 @@ var journalistAppModule = angular.module("journalistApp", []);
 
 journalistAppModule.controller("journalistCtrl", function ($scope, $http) {
     $http.get('database.json')
-        .success(function (data) {
-            $scope.journalists = data;
+        .then(function (data) {
+            // console.log(data.data);
+
+            $scope.journalists = data.data;
             $scope.propertyName = 'Name';
             $scope.reverse = false;
 
@@ -14,9 +16,5 @@ journalistAppModule.controller("journalistCtrl", function ($scope, $http) {
 
             $scope.sorts = ['unsort', 'name', 'type', 'organization', 'reliability'];
             $scope.sort = $scope.sorts[0];
-        })
-        .error(function (data, status) {
-            console.error('Fail to load data', status, data);
-            $scope.journalists = {};
         });
 });
