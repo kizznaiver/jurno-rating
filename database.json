@@ -745,5 +745,14 @@
       "Reliability": 5,
       "Goat": false,
       "Twitter": "Teamnewsandtix"
+    },
+    {
+      "Name": "Gianluca Di Marzio",
+      "Type": "Journalist/Reporter",
+      "Organization": "Sky Sport Italy",
+      "Description": "Sometimes they get things right, but it's guesswork most of the time.",
+      "Reliability": 3,
+      "Goat": false,
+      "Twitter": "DiMarzio"
     }
-  ]
+]
