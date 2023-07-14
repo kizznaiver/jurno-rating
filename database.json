@@ -754,5 +754,14 @@
       "Reliability": 3,
       "Goat": false,
       "Twitter": "DiMarzio"
+    },
+    {
+      "Name": "Mark Mann-Bryans",
+      "Type": "Journalist/Reporter",
+      "Organization": "PA Media Sport",
+      "Description": "",
+      "Reliability": 4,
+      "Goat": false,
+      "Twitter": "MarkyMBryans"
     }
 ]
