@@ -763,5 +763,68 @@
       "Reliability": 4,
       "Goat": false,
       "Twitter": "MarkyMBryans"
+    },
+    {
+      "Name": "Ben Jacobs",
+      "Type": "Journalist/Reporter",
+      "Organization": "-",
+      "Description": "",
+      "Reliability": 3.5,
+      "Goat": false,
+      "Twitter": "JacobsBen"
+    },
+    {
+      "Name": "Graeme Bailey",
+      "Type": "Journalist/Reporter",
+      "Organization": "90min Football",
+      "Description": "",
+      "Reliability": 3.5,
+      "Goat": false,
+      "Twitter": "GraemeBailey"
+    },
+    {
+      "Name": "Dean Jones",
+      "Type": "Journalist/Reporter",
+      "Organization": "GiveMeSport",
+      "Description": "",
+      "Reliability": 3,
+      "Goat": false,
+      "Twitter": "DeanJonesSoccer"
+    },
+    {
+      "Name": "Pete O'Rourke",
+      "Type": "Journalist/Reporter",
+      "Organization": "Football Insider",
+      "Description": "",
+      "Reliability": 3,
+      "Goat": false,
+      "Twitter": "SportsPeteO"
+    },
+    {
+      "Name": "Alberto Rubio",
+      "Type": "Journalist/Reporter",
+      "Organization": "Marca",
+      "Description": "",
+      "Reliability": 3.5,
+      "Goat": false,
+      "Twitter": "arubio_marca"
+    },
+    {
+      "Name": "Corriere dello Sport - Italy",
+      "Type": "Media",
+      "Organization": "Corriere dello Sport",
+      "Description": "",
+      "Reliability": 3.5,
+      "Goat": false,
+      "Twitter": "CorSport"
+    },
+    {
+      "Name": "Sacha Tavolieri",
+      "Type": "Journalist/Reporter",
+      "Organization": "-",
+      "Description": "",
+      "Reliability": 3.5,
+      "Goat": false,
+      "Twitter": "sachatavolieri"
     }
 ]
