@@ -819,6 +819,15 @@
       "Twitter": "CorSport"
     },
     {
+      "Name": "Ertan Süzgün",
+      "Type": "Journalist/Reporter",
+      "Organization": "Sports Digitale",
+      "Description": "Mainly Turkish leagues related.",
+      "Reliability": 4.5,
+      "Goat": false,
+      "Twitter": "ertansuzgun"
+    },
+    {
       "Name": "Sacha Tavolieri",
       "Type": "Journalist/Reporter",
       "Organization": "-",
