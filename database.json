@@ -1,839 +1,839 @@
 [
-    {
-      "Name": "David Ornstein",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "The GOAT 👑. He doesn't tweet as often as others, but BOMBA is guaranteed.",
-      "Reliability": 5,
-      "Goat": true,
-      "Twitter": "David_Ornstein"
-    },
-    {
-      "Name": "Fabrizio Romano",
-      "Type": "Journalist/Reporter",
-      "Organization": "-",
-      "Description": "He's covering pretty much every league from all over Europe. People say it's not a done deal yet until he tweets - Here We Go™.",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "FabrizioRomano"
-    },
-    {
-      "Name": "Florian Plettenberg",
-      "Type": "Journalist/Reporter",
-      "Organization": "Sky Sports",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Plettigoal"
-    },
-    {
-      "Name": "Charlotte Duncker",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Times",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "CharDuncker"
-    },
-    {
-      "Name": "Paul Joyce",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Times",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "_pauljoyce"
-    },
-    {
-      "Name": "Matteo Moretto",
-      "Type": "Journalist/Reporter",
-      "Organization": "Relevo",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "MatteMoretto"
-    },
-    {
-      "Name": "Santi Aouna",
-      "Type": "Journalist/Reporter",
-      "Organization": "Foot Mercato",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Santi_J_FM"
-    },
-    {
-      "Name": "Sébastien Denis",
-      "Type": "Journalist/Reporter",
-      "Organization": "Foot Mercato",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "sebnonda"
-    },
-    {
-      "Name": "Adrian Kajumba",
-      "Type": "Journalist/Reporter",
-      "Organization": "Daily Mail",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "AdrianJKajumba"
-    },
-    {
-      "Name": "Dermot Corrigan",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "dermotmcorrigan"
-    },
-    {
-      "Name": "David G. Medina",
-      "Type": "Journalist/Reporter",
-      "Organization": "Marca",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "medinamarca"
-    },
-    {
-      "Name": "Jack Gaughan",
-      "Type": "Journalist/Reporter",
-      "Organization": "Daily Mail",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Jack_Gaughan"
-    },
-    {
-      "Name": "Tom Roddy",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Times",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "TomRoddy_"
-    },
-    {
-      "Name": "Matt Law",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Telegraph",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Matt_Law_DT"
-    },
-    {
-      "Name": "Simon Phillips",
-      "Type": "Journalist/Reporter",
-      "Organization": "Talk Chelsea",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "siphillipssport"
-    },
-    {
-      "Name": "Amy Lawrence",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "amylawrence71"
-    },
-    {
-      "Name": "Daniel Matthews",
-      "Type": "Journalist/Reporter",
-      "Organization": "Daily Mail",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "_DanMatthews_"
-    },
-    {
-      "Name": "Jeremy Wilson",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Telegraph",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "JWTelegraph"
-    },
-    {
-      "Name": "El Partidazo de COPE - Spain",
-      "Type": "Media",
-      "Organization": "COPE",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "partidazocope"
-    },
-    {
-      "Name": "Gastón Edul",
-      "Type": "Journalist/Reporter",
-      "Organization": "TyC Sports",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "gastonedul"
-    },
-    {
-      "Name": "NRK.no - Norway",
-      "Type": "Media",
-      "Organization": "NRK",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "NRKno"
-    },
-    {
-      "Name": "Rob Tanner",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "RobTannerLCFC"
-    },
-    {
-      "Name": "Adam Crafton",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "AdamCrafton_"
-    },
-    {
-      "Name": "Mark Ogden",
-      "Type": "Journalist/Reporter",
-      "Organization": "ESPN",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "MarkOgden_"
-    },
-    {
-      "Name": "Mike McGrath",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Telegraph",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "mcgrathmike"
-    },
-    {
-      "Name": "Nick Ames",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Guardian",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "NickAmes82"
-    },
-    {
-      "Name": "Bruno Andrade",
-      "Type": "Journalist/Reporter",
-      "Organization": "UOL Brazil",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "brunoandrd"
-    },
-    {
-      "Name": "Sami Mokbel",
-      "Type": "Journalist/Reporter",
-      "Organization": "Daily Mail",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "SamiMokbel81_DM"
-    },
-    {
-      "Name": "Scott Wilson",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Northern Echo",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Scottwilsonecho"
-    },
-    {
-      "Name": "Jacob Steinberg",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Guardian",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "JacobSteinberg"
-    },
-    {
-      "Name": "Fabrice Hawkins",
-      "Type": "Journalist/Reporter",
-      "Organization": "RMC Sport",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "FabriceHawkins"
-    },
-    {
-      "Name": "Chris Waugh",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "ChrisDHWaugh"
-    },
-    {
-      "Name": "Alex Howell",
-      "Type": "Journalist/Reporter",
-      "Organization": "BBC Sport",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "iamAlexHowell"
-    },
-    {
-      "Name": "Simon Johnson",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "SJohnsonSport"
-    },
-    {
-      "Name": "Raphael Honigstein",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "honigstein"
-    },
-    {
-      "Name": "César Luis Merlo",
-      "Type": "Journalist/Reporter",
-      "Organization": "TyC Sports",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "CLMerlo"
-    },
-    {
-      "Name": "Javi Miguel",
-      "Type": "Journalist/Reporter",
-      "Organization": "Diario AS",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "fansjavimiguel"
-    },
-    {
-      "Name": "Tom Allnutt",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Times",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "TomAllnutt_"
-    },
-    {
-      "Name": "Jason Burt",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Telegraph",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "JBurtTelegraph"
-    },
-    {
-      "Name": "Mike Verweij",
-      "Type": "Journalist/Reporter",
-      "Organization": "Telegraaf NL",
-      "Description": "Very reliable when it comes to Dutch players/leagues.",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "MikeVerweij"
-    },
-    {
-      "Name": "Samuel Luckhurst",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Manchester Evening News",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "samuelluckhurst"
-    },
-    {
-      "Name": "Rik Elfrink",
-      "Type": "Journalist/Reporter",
-      "Organization": "ED.nl",
-      "Description": "Very reliable when it comes to Dutch players/leagues.",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "RikElfrink"
-    },
-    {
-      "Name": "Roshane Thomas",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "RoshaneSport"
-    },
-    {
-      "Name": "Laurie Whitwell",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "lauriewhitwell"
-    },
-    {
-      "Name": "ExWHUEmployee",
-      "Type": "Journalist/Reporter",
-      "Organization": "The West Ham Way",
-      "Description": "Very reliable for West Ham related.",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "ExWHUEmployee"
-    },
-    {
-      "Name": "Loïc Tanzi",
-      "Type": "Journalist/Reporter",
-      "Organization": "L’Equipe",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Tanziloic"
-    },
-    {
-      "Name": "Ian Abrahams",
-      "Type": "Journalist/Reporter",
-      "Organization": "talkSPORT",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "BroadcastMoose"
-    },
-    {
-      "Name": "Simon Stone",
-      "Type": "Journalist/Reporter",
-      "Organization": "BBC Sport",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "sistoney67"
-    },
-    {
-      "Name": "Rob Dawson",
-      "Type": "Journalist/Reporter",
-      "Organization": "ESPN",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "RobDawsonESPN"
-    },
-    {
-      "Name": "Simon Bajkowski",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Manchester Evening News",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "spbajko"
-    },
-    {
-      "Name": "Daniele Longo",
-      "Type": "Journalist/Reporter",
-      "Organization": "Calcio Mercato",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "86_longo"
-    },
-    {
-      "Name": "Alan Nixon",
-      "Type": "Journalist/Reporter",
-      "Organization": "-",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "reluctantnicko"
-    },
-    {
-      "Name": "Jordan Campbell",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "JordanC1107"
-    },
-    {
-      "Name": "The Beautiful Game Podcast",
-      "Type": "Media",
-      "Organization": "The Beautiful Game Podcast",
-      "Description": "",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Podcast_TBG"
-    },
-    {
-      "Name": "Dharmesh Sheth",
-      "Type": "Journalist/Reporter",
-      "Organization": "Sky Sports",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "skysports_sheth"
-    },
-    {
-      "Name": "Sam Dean",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Telegraph",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "SamJDean"
-    },
-    {
-      "Name": "James Benge",
-      "Type": "Journalist/Reporter",
-      "Organization": "CBS",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "jamesbenge"
-    },
-    {
-      "Name": "gunnerblog",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "gunnerblog"
-    },
-    {
-      "Name": "Art de Roché",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Athletic",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "ArtdeRoche"
-    },
-    {
-      "Name": "Nizaar Kinsella",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Evening Standard",
-      "Description": "Used to be fairly reliable. Made a blunder about Willian having a medical at Forest.",
-      "Reliability": 3,
-      "Goat": false,
-      "Twitter": "NizaarKinsella"
-    },
-    {
-      "Name": "Simon Collings",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Evening Standard",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "sr_collings"
-    },
-    {
-      "Name": "Gary Jacob",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Times",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "garyjacob"
-    },
-    {
-      "Name": "Kaya Kaynak",
-      "Type": "Journalist/Reporter",
-      "Organization": "Football London",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "kayakaynak97"
-    },
-    {
-      "Name": "James Olley",
-      "Type": "Journalist/Reporter",
-      "Organization": "ESPN",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "JamesOlley"
-    },
-    {
-      "Name": "Sport Arena - Ukraine",
-      "Type": "Media",
-      "Organization": "Sport Arena",
-      "Description": "Reliable for Ukrainian players/leagues.",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": ""
-    },
-    {
-      "Name": "L'Equipe - France",
-      "Type": "Media",
-      "Organization": "L'Equipe",
-      "Description": "Reliable mainly for players in French leagues. But I'd be a bit cautious if it's about players outside of France.",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "lequipe"
-    },
-    {
-      "Name": "Thiago Fernandes",
-      "Type": "Journalist/Reporter",
-      "Organization": "Goal BR",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "thirfernandes"
-    },
-    {
-      "Name": "Raisa Simplicio",
-      "Type": "Journalist/Reporter",
-      "Organization": "Goal BR",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "simpraisa"
-    },
-    {
-      "Name": "Jorge Nicola",
-      "Type": "Journalist/Reporter",
-      "Organization": "-",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "jorgenicola"
-    },
-    {
-      "Name": "BILD Sport - Germany",
-      "Type": "Media",
-      "Organization": "BILD Sport",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "BILD_Sport"
-    },
-    {
-      "Name": "Ed Aarons",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Guardian",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "ed_aarons"
-    },
-    {
-      "Name": "Jack Rosser",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Sun",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "JackRosser_"
-    },
-    {
-      "Name": "Charles Watts",
-      "Type": "Journalist/Reporter",
-      "Organization": "-",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "charles_watts"
-    },
-    {
-      "Name": "Ignazio Genuardi",
-      "Type": "Scout",
-      "Organization": "-",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "IgnazioGenuardi"
-    },
-    {
-      "Name": "Ryan Taylor",
-      "Type": "Journalist/Reporter",
-      "Organization": "Daily Express",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "RyanTaylorSport"
-    },
-    {
-      "Name": "Alexis Bernard",
-      "Type": "Journalist/Reporter",
-      "Organization": "Le10sport",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "AlexisBernard10"
-    },
-    {
-      "Name": "Repubblica - Italy",
-      "Type": "Media",
-      "Organization": "Repubblica",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "repubblica"
-    },
-    {
-      "Name": "Ian Ladyman",
-      "Type": "Journalist/Reporter",
-      "Organization": "Daily Mail",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "Ian_Ladyman_DM"
-    },
-    {
-      "Name": "John Cross",
-      "Type": "Journalist/Reporter",
-      "Organization": "The Mirror Football",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "johncrossmirror"
-    },
-    {
-      "Name": "Mike Minay",
-      "Type": "Journalist/Reporter",
-      "Organization": "BBC Radio Manchester",
-      "Description": "",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "MikeMinay"
-    },
-    {
-      "Name": "Chris Wheatley",
-      "Type": "Journalist/Reporter",
-      "Organization": "National World Publishing",
-      "Description": "Used to be very reliable when he's still at Football London, but made a blunder about Thomas Partey availability news.",
-      "Reliability": 4,
-      "Goat": false,
-      "Twitter": "ChrisWheatley"
-    },
-    {
-      "Name": "Christian Falk",
-      "Type": "Journalist/Reporter",
-      "Organization": "BILD Sport",
-      "Description": "Reliable for players in German leagues.",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "cfbayern"
-    },
-    {
-      "Name": "Team news and ticks",
-      "Type": "Leaker",
-      "Organization": "-",
-      "Description": "Has connections within Arsenal Football Club. Mainly covering lineup/team news but does have transfer related info sometimes.",
-      "Reliability": 5,
-      "Goat": false,
-      "Twitter": "Teamnewsandtix"
-    },
-    {
-      "Name": "Gianluca Di Marzio",
-      "Type": "Journalist/Reporter",
-      "Organization": "Sky Sport Italy",
-      "Description": "Sometimes they get things right, but it's guesswork most of the time.",
-      "Reliability": 3,
-      "Goat": false,
-      "Twitter": "DiMarzio"
-    },
-    {
-      "Name": "Mark Mann-Bryans",
-      "Type": "Journalist/Reporter",
-      "Organization": "PA Media Sport",
-      "Description": "",
-      "Reliability": 4,
-      "Goat": false,
-      "Twitter": "MarkyMBryans"
-    },
-    {
-      "Name": "Ben Jacobs",
-      "Type": "Journalist/Reporter",
-      "Organization": "-",
-      "Description": "",
-      "Reliability": 3.5,
-      "Goat": false,
-      "Twitter": "JacobsBen"
-    },
-    {
-      "Name": "Graeme Bailey",
-      "Type": "Journalist/Reporter",
-      "Organization": "90min Football",
-      "Description": "",
-      "Reliability": 3.5,
-      "Goat": false,
-      "Twitter": "GraemeBailey"
-    },
-    {
-      "Name": "Dean Jones",
-      "Type": "Journalist/Reporter",
-      "Organization": "GiveMeSport",
-      "Description": "",
-      "Reliability": 3,
-      "Goat": false,
-      "Twitter": "DeanJonesSoccer"
-    },
-    {
-      "Name": "Pete O'Rourke",
-      "Type": "Journalist/Reporter",
-      "Organization": "Football Insider",
-      "Description": "",
-      "Reliability": 3,
-      "Goat": false,
-      "Twitter": "SportsPeteO"
-    },
-    {
-      "Name": "Alberto Rubio",
-      "Type": "Journalist/Reporter",
-      "Organization": "Marca",
-      "Description": "",
-      "Reliability": 3.5,
-      "Goat": false,
-      "Twitter": "arubio_marca"
-    },
-    {
-      "Name": "Corriere dello Sport - Italy",
-      "Type": "Media",
-      "Organization": "Corriere dello Sport",
-      "Description": "",
-      "Reliability": 3.5,
-      "Goat": false,
-      "Twitter": "CorSport"
-    },
-    {
-      "Name": "Ertan Süzgün",
-      "Type": "Journalist/Reporter",
-      "Organization": "Sports Digitale",
-      "Description": "Mainly Turkish leagues related.",
-      "Reliability": 4.5,
-      "Goat": false,
-      "Twitter": "ertansuzgun"
-    },
-    {
-      "Name": "Sacha Tavolieri",
-      "Type": "Journalist/Reporter",
-      "Organization": "-",
-      "Description": "",
-      "Reliability": 3.5,
-      "Goat": false,
-      "Twitter": "sachatavolieri"
-    }
+	{
+		"Name": "David Ornstein",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "The GOAT 👑. He doesn't tweet as often as others, but BOMBA is guaranteed.",
+		"Reliability": 5,
+		"Goat": true,
+		"Twitter": "David_Ornstein"
+	},
+	{
+		"Name": "Fabrizio Romano",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "He's covering pretty much every league from all over Europe. People say it's not a done deal yet until he tweets - Here We Go™.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "FabrizioRomano"
+	},
+	{
+		"Name": "Florian Plettenberg",
+		"Type": "Journalist/Reporter",
+		"Organization": "Sky Sports",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Plettigoal"
+	},
+	{
+		"Name": "Charlotte Duncker",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Times",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "CharDuncker"
+	},
+	{
+		"Name": "Paul Joyce",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Times",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "_pauljoyce"
+	},
+	{
+		"Name": "Matteo Moretto",
+		"Type": "Journalist/Reporter",
+		"Organization": "Relevo",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "MatteMoretto"
+	},
+	{
+		"Name": "Santi Aouna",
+		"Type": "Journalist/Reporter",
+		"Organization": "Foot Mercato",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Santi_J_FM"
+	},
+	{
+		"Name": "Sébastien Denis",
+		"Type": "Journalist/Reporter",
+		"Organization": "Foot Mercato",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "sebnonda"
+	},
+	{
+		"Name": "Adrian Kajumba",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "AdrianJKajumba"
+	},
+	{
+		"Name": "Dermot Corrigan",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "dermotmcorrigan"
+	},
+	{
+		"Name": "David G. Medina",
+		"Type": "Journalist/Reporter",
+		"Organization": "Marca",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "medinamarca"
+	},
+	{
+		"Name": "Jack Gaughan",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Jack_Gaughan"
+	},
+	{
+		"Name": "Tom Roddy",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Times",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "TomRoddy_"
+	},
+	{
+		"Name": "Matt Law",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Telegraph",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Matt_Law_DT"
+	},
+	{
+		"Name": "Simon Phillips",
+		"Type": "Journalist/Reporter",
+		"Organization": "Talk Chelsea",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "siphillipssport"
+	},
+	{
+		"Name": "Amy Lawrence",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "amylawrence71"
+	},
+	{
+		"Name": "Daniel Matthews",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "_DanMatthews_"
+	},
+	{
+		"Name": "Jeremy Wilson",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Telegraph",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "JWTelegraph"
+	},
+	{
+		"Name": "El Partidazo de COPE - Spain",
+		"Type": "Media",
+		"Organization": "COPE",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "partidazocope"
+	},
+	{
+		"Name": "Gastón Edul",
+		"Type": "Journalist/Reporter",
+		"Organization": "TyC Sports",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "gastonedul"
+	},
+	{
+		"Name": "NRK.no - Norway",
+		"Type": "Media",
+		"Organization": "NRK",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "NRKno"
+	},
+	{
+		"Name": "Rob Tanner",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "RobTannerLCFC"
+	},
+	{
+		"Name": "Adam Crafton",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "AdamCrafton_"
+	},
+	{
+		"Name": "Mark Ogden",
+		"Type": "Journalist/Reporter",
+		"Organization": "ESPN",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "MarkOgden_"
+	},
+	{
+		"Name": "Mike McGrath",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Telegraph",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "mcgrathmike"
+	},
+	{
+		"Name": "Nick Ames",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Guardian",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "NickAmes82"
+	},
+	{
+		"Name": "Bruno Andrade",
+		"Type": "Journalist/Reporter",
+		"Organization": "UOL Brazil",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "brunoandrd"
+	},
+	{
+		"Name": "Sami Mokbel",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "SamiMokbel81_DM"
+	},
+	{
+		"Name": "Scott Wilson",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Northern Echo",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Scottwilsonecho"
+	},
+	{
+		"Name": "Jacob Steinberg",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Guardian",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "JacobSteinberg"
+	},
+	{
+		"Name": "Fabrice Hawkins",
+		"Type": "Journalist/Reporter",
+		"Organization": "RMC Sport",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "FabriceHawkins"
+	},
+	{
+		"Name": "Chris Waugh",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "ChrisDHWaugh"
+	},
+	{
+		"Name": "Alex Howell",
+		"Type": "Journalist/Reporter",
+		"Organization": "BBC Sport",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "iamAlexHowell"
+	},
+	{
+		"Name": "Simon Johnson",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "SJohnsonSport"
+	},
+	{
+		"Name": "Raphael Honigstein",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "honigstein"
+	},
+	{
+		"Name": "César Luis Merlo",
+		"Type": "Journalist/Reporter",
+		"Organization": "TyC Sports",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "CLMerlo"
+	},
+	{
+		"Name": "Javi Miguel",
+		"Type": "Journalist/Reporter",
+		"Organization": "Diario AS",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "fansjavimiguel"
+	},
+	{
+		"Name": "Tom Allnutt",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Times",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "TomAllnutt_"
+	},
+	{
+		"Name": "Jason Burt",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Telegraph",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "JBurtTelegraph"
+	},
+	{
+		"Name": "Mike Verweij",
+		"Type": "Journalist/Reporter",
+		"Organization": "Telegraaf NL",
+		"Description": "Very reliable when it comes to Dutch players/leagues.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "MikeVerweij"
+	},
+	{
+		"Name": "Samuel Luckhurst",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Manchester Evening News",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "samuelluckhurst"
+	},
+	{
+		"Name": "Rik Elfrink",
+		"Type": "Journalist/Reporter",
+		"Organization": "ED.nl",
+		"Description": "Very reliable when it comes to Dutch players/leagues.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "RikElfrink"
+	},
+	{
+		"Name": "Roshane Thomas",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "RoshaneSport"
+	},
+	{
+		"Name": "Laurie Whitwell",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "lauriewhitwell"
+	},
+	{
+		"Name": "ExWHUEmployee",
+		"Type": "Journalist/Reporter",
+		"Organization": "The West Ham Way",
+		"Description": "Very reliable for West Ham related.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "ExWHUEmployee"
+	},
+	{
+		"Name": "Loïc Tanzi",
+		"Type": "Journalist/Reporter",
+		"Organization": "L’Equipe",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Tanziloic"
+	},
+	{
+		"Name": "Ian Abrahams",
+		"Type": "Journalist/Reporter",
+		"Organization": "talkSPORT",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "BroadcastMoose"
+	},
+	{
+		"Name": "Simon Stone",
+		"Type": "Journalist/Reporter",
+		"Organization": "BBC Sport",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "sistoney67"
+	},
+	{
+		"Name": "Rob Dawson",
+		"Type": "Journalist/Reporter",
+		"Organization": "ESPN",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "RobDawsonESPN"
+	},
+	{
+		"Name": "Simon Bajkowski",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Manchester Evening News",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "spbajko"
+	},
+	{
+		"Name": "Daniele Longo",
+		"Type": "Journalist/Reporter",
+		"Organization": "Calcio Mercato",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "86_longo"
+	},
+	{
+		"Name": "Alan Nixon",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "reluctantnicko"
+	},
+	{
+		"Name": "Jordan Campbell",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "JordanC1107"
+	},
+	{
+		"Name": "The Beautiful Game Podcast",
+		"Type": "Media",
+		"Organization": "The Beautiful Game Podcast",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Podcast_TBG"
+	},
+	{
+		"Name": "Dharmesh Sheth",
+		"Type": "Journalist/Reporter",
+		"Organization": "Sky Sports",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "skysports_sheth"
+	},
+	{
+		"Name": "Sam Dean",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Telegraph",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "SamJDean"
+	},
+	{
+		"Name": "James Benge",
+		"Type": "Journalist/Reporter",
+		"Organization": "CBS",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "jamesbenge"
+	},
+	{
+		"Name": "gunnerblog",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "gunnerblog"
+	},
+	{
+		"Name": "Art de Roché",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "ArtdeRoche"
+	},
+	{
+		"Name": "Nizaar Kinsella",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Evening Standard",
+		"Description": "Used to be fairly reliable. Made a blunder about Willian having a medical at Forest.",
+		"Reliability": 3,
+		"Goat": false,
+		"Twitter": "NizaarKinsella"
+	},
+	{
+		"Name": "Simon Collings",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Evening Standard",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "sr_collings"
+	},
+	{
+		"Name": "Gary Jacob",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Times",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "garyjacob"
+	},
+	{
+		"Name": "Kaya Kaynak",
+		"Type": "Journalist/Reporter",
+		"Organization": "Football London",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "kayakaynak97"
+	},
+	{
+		"Name": "James Olley",
+		"Type": "Journalist/Reporter",
+		"Organization": "ESPN",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "JamesOlley"
+	},
+	{
+		"Name": "Sport Arena - Ukraine",
+		"Type": "Media",
+		"Organization": "Sport Arena",
+		"Description": "Reliable for Ukrainian players/leagues.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": ""
+	},
+	{
+		"Name": "L'Equipe - France",
+		"Type": "Media",
+		"Organization": "L'Equipe",
+		"Description": "Reliable mainly for players in French leagues. But I'd be a bit cautious if it's about players outside of France.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "lequipe"
+	},
+	{
+		"Name": "Thiago Fernandes",
+		"Type": "Journalist/Reporter",
+		"Organization": "Goal BR",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "thirfernandes"
+	},
+	{
+		"Name": "Raisa Simplicio",
+		"Type": "Journalist/Reporter",
+		"Organization": "Goal BR",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "simpraisa"
+	},
+	{
+		"Name": "Jorge Nicola",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "jorgenicola"
+	},
+	{
+		"Name": "BILD Sport - Germany",
+		"Type": "Media",
+		"Organization": "BILD Sport",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "BILD_Sport"
+	},
+	{
+		"Name": "Ed Aarons",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Guardian",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "ed_aarons"
+	},
+	{
+		"Name": "Jack Rosser",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Sun",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "JackRosser_"
+	},
+	{
+		"Name": "Charles Watts",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "charles_watts"
+	},
+	{
+		"Name": "Ignazio Genuardi",
+		"Type": "Scout",
+		"Organization": "-",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "IgnazioGenuardi"
+	},
+	{
+		"Name": "Ryan Taylor",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Express",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "RyanTaylorSport"
+	},
+	{
+		"Name": "Alexis Bernard",
+		"Type": "Journalist/Reporter",
+		"Organization": "Le10sport",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "AlexisBernard10"
+	},
+	{
+		"Name": "Repubblica - Italy",
+		"Type": "Media",
+		"Organization": "Repubblica",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "repubblica"
+	},
+	{
+		"Name": "Ian Ladyman",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "Ian_Ladyman_DM"
+	},
+	{
+		"Name": "John Cross",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Mirror Football",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "johncrossmirror"
+	},
+	{
+		"Name": "Mike Minay",
+		"Type": "Journalist/Reporter",
+		"Organization": "BBC Radio Manchester",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "MikeMinay"
+	},
+	{
+		"Name": "Chris Wheatley",
+		"Type": "Journalist/Reporter",
+		"Organization": "National World Publishing",
+		"Description": "Used to be very reliable when he's still at Football London, but made a blunder about Thomas Partey availability news.",
+		"Reliability": 4,
+		"Goat": false,
+		"Twitter": "ChrisWheatley"
+	},
+	{
+		"Name": "Christian Falk",
+		"Type": "Journalist/Reporter",
+		"Organization": "BILD Sport",
+		"Description": "Reliable for players in German leagues.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "cfbayern"
+	},
+	{
+		"Name": "Team news and ticks",
+		"Type": "Leaker",
+		"Organization": "-",
+		"Description": "Has connections within Arsenal Football Club. Mainly covering lineup/team news but does have transfer related info sometimes.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "Teamnewsandtix"
+	},
+	{
+		"Name": "Gianluca Di Marzio",
+		"Type": "Journalist/Reporter",
+		"Organization": "Sky Sport Italy",
+		"Description": "Sometimes they get things right, but it's guesswork most of the time.",
+		"Reliability": 3,
+		"Goat": false,
+		"Twitter": "DiMarzio"
+	},
+	{
+		"Name": "Mark Mann-Bryans",
+		"Type": "Journalist/Reporter",
+		"Organization": "PA Media Sport",
+		"Description": "",
+		"Reliability": 4,
+		"Goat": false,
+		"Twitter": "MarkyMBryans"
+	},
+	{
+		"Name": "Ben Jacobs",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "",
+		"Reliability": 3.5,
+		"Goat": false,
+		"Twitter": "JacobsBen"
+	},
+	{
+		"Name": "Graeme Bailey",
+		"Type": "Journalist/Reporter",
+		"Organization": "90min Football",
+		"Description": "",
+		"Reliability": 3.5,
+		"Goat": false,
+		"Twitter": "GraemeBailey"
+	},
+	{
+		"Name": "Dean Jones",
+		"Type": "Journalist/Reporter",
+		"Organization": "GiveMeSport",
+		"Description": "",
+		"Reliability": 3,
+		"Goat": false,
+		"Twitter": "DeanJonesSoccer"
+	},
+	{
+		"Name": "Pete O'Rourke",
+		"Type": "Journalist/Reporter",
+		"Organization": "Football Insider",
+		"Description": "",
+		"Reliability": 3,
+		"Goat": false,
+		"Twitter": "SportsPeteO"
+	},
+	{
+		"Name": "Alberto Rubio",
+		"Type": "Journalist/Reporter",
+		"Organization": "Marca",
+		"Description": "",
+		"Reliability": 3.5,
+		"Goat": false,
+		"Twitter": "arubio_marca"
+	},
+	{
+		"Name": "Corriere dello Sport - Italy",
+		"Type": "Media",
+		"Organization": "Corriere dello Sport",
+		"Description": "",
+		"Reliability": 3.5,
+		"Goat": false,
+		"Twitter": "CorSport"
+	},
+	{
+		"Name": "Ertan Süzgün",
+		"Type": "Journalist/Reporter",
+		"Organization": "Sports Digitale",
+		"Description": "Mainly Turkish leagues related.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "ertansuzgun"
+	},
+	{
+		"Name": "Sacha Tavolieri",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "",
+		"Reliability": 3.5,
+		"Goat": false,
+		"Twitter": "sachatavolieri"
+	}
 ]
