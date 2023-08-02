@@ -183,8 +183,8 @@
 		"Name": "NRK.no - Norway",
 		"Type": "Media",
 		"Organization": "NRK",
-		"Description": "",
-		"Reliability": 5,
+		"Description": "Very reliable for Norwegian players/leagues.",
+		"Reliability": 4.5,
 		"Goat": false,
 		"Twitter": "NRKno"
 	},
