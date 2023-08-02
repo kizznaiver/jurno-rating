@@ -354,7 +354,7 @@
 		"Name": "Mike Verweij",
 		"Type": "Journalist/Reporter",
 		"Organization": "Telegraaf NL",
-		"Description": "Very reliable when it comes to Dutch players/leagues.",
+		"Description": "Very reliable for Dutch players/leagues.",
 		"Reliability": 5,
 		"Goat": false,
 		"Twitter": "MikeVerweij"
@@ -372,7 +372,7 @@
 		"Name": "Rik Elfrink",
 		"Type": "Journalist/Reporter",
 		"Organization": "ED.nl",
-		"Description": "Very reliable when it comes to Dutch players/leagues.",
+		"Description": "Very reliable for Dutch players/leagues.",
 		"Reliability": 5,
 		"Goat": false,
 		"Twitter": "RikElfrink"
@@ -723,7 +723,7 @@
 		"Name": "Chris Wheatley",
 		"Type": "Journalist/Reporter",
 		"Organization": "National World Publishing",
-		"Description": "Used to be very reliable when he's still at Football London, but made a blunder about Thomas Partey availability news.",
+		"Description": "Used to be very reliable when he's still at Football London, but made a blunder about Thomas Partey availability.",
 		"Reliability": 4,
 		"Goat": false,
 		"Twitter": "ChrisWheatley"
