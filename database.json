@@ -756,6 +756,15 @@
 		"Twitter": "Teamnewsandtix"
 	},
 	{
+		"Name": "David M",
+		"Type": "Fan Account",
+		"Organization": "-",
+		"Description": "Just guessworks, no sources.",
+		"Reliability": 0,
+		"Goat": false,
+		"Twitter": "davemagar"
+	},
+	{
 		"Name": "FourFourTwo",
 		"Type": "Media",
 		"Organization": "FourFourTwo",
