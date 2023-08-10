@@ -432,6 +432,15 @@
 		"Twitter": "BroadcastMoose"
 	},
 	{
+		"Name": "Alex Crook",
+		"Type": "Journalist/Reporter",
+		"Organization": "talkSPORT",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "alex_crook"
+	},
+	{
 		"Name": "Simon Stone",
 		"Type": "Journalist/Reporter",
 		"Organization": "BBC Sport",
