@@ -756,6 +756,15 @@
 		"Twitter": "Teamnewsandtix"
 	},
 	{
+		"Name": "FourFourTwo",
+		"Type": "Media",
+		"Organization": "FourFourTwo",
+		"Description": "",
+		"Reliability": 3,
+		"Goat": false,
+		"Twitter": "FourFourTwo"
+	},
+	{
 		"Name": "Gianluca Di Marzio",
 		"Type": "Media",
 		"Organization": "Di Marzio / Sky Sport Italy",
