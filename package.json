@@ -2,8 +2,9 @@
 	"devDependencies": {
 		"tailwindcss": "^3.3.2"
 	},
-  	"scripts": {
+	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "npx tailwindcss -i ./src/main.css -o ./assets/css/style.css --watch"
+		"dev": "npx tailwindcss -i ./src/main.css -o ./assets/css/style.css --watch",
+		"build": "npx tailwindcss -i ./src/main.css -o ./assets/css/style.css"
 	}
 }
