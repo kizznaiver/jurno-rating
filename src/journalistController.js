@@ -6,7 +6,7 @@ journalistAppModule.controller("journalistCtrl", function ($scope, $http) {
             // console.log(data.data);
 
             $scope.journalists = data.data;
-            $scope.propertyName = 'Name';
+            $scope.propertyName = 'Twitter';
             $scope.reverse = false;
 
             $scope.sortBy = function (propertyName) {
