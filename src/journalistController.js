@@ -14,7 +14,7 @@ journalistAppModule.controller("journalistCtrl", function ($scope, $http) {
                 $scope.propertyName = propertyName;
             };
 
-            $scope.sorts = ['unsort', 'name', 'type', 'organization', 'reliability'];
+            $scope.sorts = ['unsort', 'name', 'twitter', 'organization', 'reliability'];
             $scope.sort = $scope.sorts[0];
         });
 });
