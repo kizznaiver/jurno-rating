@@ -553,7 +553,7 @@
 		"Type": "Journalist/Reporter",
 		"Organization": "The Evening Standard",
 		"Description": "Used to be fairly reliable. Made a blunder about Willian having a medical at Forest.",
-		"Reliability": 3,
+		"Reliability": 3.5,
 		"Goat": false,
 		"Twitter": "NizaarKinsella"
 	},
