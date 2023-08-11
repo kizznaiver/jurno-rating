@@ -774,6 +774,15 @@
 		"Twitter": "davemagar"
 	},
 	{
+		"Name": "Prec",
+		"Type": "Fan Account",
+		"Organization": "-",
+		"Description": "He's got eyes all around London Colney 😅. Mainly squad news.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "precbrown95"
+	},
+	{
 		"Name": "FourFourTwo",
 		"Type": "Media",
 		"Organization": "FourFourTwo",
