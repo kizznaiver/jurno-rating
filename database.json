@@ -234,6 +234,15 @@
 		"Twitter": "mcgrathmike"
 	},
 	{
+		"Name": "Luke Edwards",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Telegraph",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "LukeEdwardsTele"
+	},
+	{
 		"Name": "Nick Ames",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Guardian",
