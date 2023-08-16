@@ -450,6 +450,15 @@
 		"Twitter": "MsiDouglas"
 	},
 	{
+		"Name": "Yağız Sabuncuoğlu",
+		"Type": "Journalist/Reporter",
+		"Organization": "Sports Digitale",
+		"Description": "Very reliable for Turkish players/leagues.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "yagosabuncuoglu"
+	},
+	{
 		"Name": "Alex Crook",
 		"Type": "Journalist/Reporter",
 		"Organization": "talkSPORT",
