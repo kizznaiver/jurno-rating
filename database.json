@@ -765,6 +765,15 @@
 		"Twitter": "lee_ryder"
 	},
 	{
+		"Name": "Pedro Sepúlveda",
+		"Type": "Journalist/Reporter",
+		"Organization": "SIC Notícias",
+		"Description": "Very reliable for Portuguese players/leagues.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "pedromsepulveda"
+	},
+	{
 		"Name": "John Cross",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Mirror Football",
