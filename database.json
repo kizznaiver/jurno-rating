@@ -819,6 +819,15 @@
 		"Twitter": "TomCollomosse"
 	},
 	{
+		"Name": "Ian Herbert",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "ianherbs"
+	},
+	{
 		"Name": "Craig Hope",
 		"Type": "Journalist/Reporter",
 		"Organization": "Daily Mail",
