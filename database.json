@@ -594,6 +594,15 @@
 		"Twitter": "ArtdeRoche"
 	},
 	{
+		"Name": "Tim Spiers",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "London clubs writer.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "TimSpiers"
+	},
+	{
 		"Name": "Nice-Matin",
 		"Type": "Media",
 		"Organization": "Nice-Matin",
