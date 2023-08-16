@@ -747,6 +747,15 @@
 		"Twitter": "Ian_Ladyman_DM"
 	},
 	{
+		"Name": "Craig Hope",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "Very reliable for Newcastle related.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "CraigHope_DM"
+	},
+	{
 		"Name": "John Cross",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Mirror Football",
