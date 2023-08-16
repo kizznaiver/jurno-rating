@@ -127,12 +127,20 @@
                     <div class="px-6 py-4">
                         <div class="flex items-center justify-between">
                             <div>
-                                <a href="https://twitter.com/{{ journalist.Twitter }}"
+                                <a href="https://twitter.com/{{ journalist.Twitter }}" ng-if="journalist.Twitter"
                                     class="text-sm sm:text-base font-semibold text-amber-400 hover:text-amber-600 transition-colors duration-100">
-                                    {{ journalist.Twitter }}
+                                    @{{ journalist.Twitter }}
                                 </a>
-                                <span class="hidden sm:inline-block text-gray-300">
+                                <span class="hidden sm:inline-block text-gray-300" ng-if="journalist.Twitter">
                                     ({{ journalist.Name }})
+                                </span>
+                                <a href="https://www.google.com/search?q={{ journalist.Name}}"
+                                    ng-if="!journalist.Twitter"
+                                    class="text-sm sm:text-base font-semibold text-amber-400 hover:text-amber-600 transition-colors duration-100">
+                                    {{ journalist.Name }}
+                                </a>
+                                <span class="hidden sm:inline-block text-gray-300" ng-if="!journalist.Twitter">
+                                    ({{ journalist.Type }})
                                 </span>
                             </div>
                             <div class="flex items-center rounded-full bg-gray-900 py-2">
