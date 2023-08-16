@@ -756,6 +756,15 @@
 		"Twitter": "CraigHope_DM"
 	},
 	{
+		"Name": "Lee Ryder",
+		"Type": "Journalist/Reporter",
+		"Organization": "ChronicleLive",
+		"Description": "Very reliable for Newcastle related.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "lee_ryder"
+	},
+	{
 		"Name": "John Cross",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Mirror Football",
