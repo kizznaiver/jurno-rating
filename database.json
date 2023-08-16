@@ -720,6 +720,15 @@
 		"Twitter": "simpraisa"
 	},
 	{
+		"Name": "Romeo Agresti",
+		"Type": "Journalist/Reporter",
+		"Organization": "Goal IT",
+		"Description": "Very reliable for Juventus related.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "romeoagresti"
+	},
+	{
 		"Name": "Jorge Nicola",
 		"Type": "Journalist/Reporter",
 		"Organization": "-",
