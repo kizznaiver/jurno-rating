@@ -180,6 +180,15 @@
 		"Twitter": "partidazocope"
 	},
 	{
+		"Name": "Helena Condis Edo",
+		"Type": "Journalist/Reporter",
+		"Organization": "COPE",
+		"Description": "Very reliable for Barcelona related.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "HelenaCondis"
+	},
+	{
 		"Name": "Gastón Edul",
 		"Type": "Journalist/Reporter",
 		"Organization": "TyC Sports",
