@@ -828,6 +828,15 @@
 		"Twitter": "ianherbs"
 	},
 	{
+		"Name": "HLN.BE",
+		"Type": "Media",
+		"Organization": "HLN",
+		"Description": "Very reliable for Belgian players/leagues.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "HLN_BE"
+	},
+	{
 		"Name": "Craig Hope",
 		"Type": "Journalist/Reporter",
 		"Organization": "Daily Mail",
