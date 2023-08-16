@@ -612,6 +612,15 @@
 		"Twitter": "Nice_Matin"
 	},
 	{
+		"Name": "Gerard Romero",
+		"Type": "Journalist/Reporter",
+		"Organization": "-",
+		"Description": "Reliable for Barcelona related.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "gerardromero"
+	},
+	{
 		"Name": "Nizaar Kinsella",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Evening Standard",
