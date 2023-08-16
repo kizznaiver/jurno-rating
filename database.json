@@ -525,7 +525,7 @@
 		"Name": "Simon Bajkowski",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Manchester Evening News",
-		"Description": "",
+		"Description": "Very reliable for Manchester City related.",
 		"Reliability": 5,
 		"Goat": false,
 		"Twitter": "spbajko"
@@ -808,6 +808,15 @@
 		"Reliability": 4.5,
 		"Goat": false,
 		"Twitter": "Ian_Ladyman_DM"
+	},
+	{
+		"Name": "Tom Collomosse",
+		"Type": "Journalist/Reporter",
+		"Organization": "Daily Mail",
+		"Description": "Mainly covering Midlands football (WWFC, AVFC, NFFC, PUSB, WBA, BCFC).",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "TomCollomosse"
 	},
 	{
 		"Name": "Craig Hope",
