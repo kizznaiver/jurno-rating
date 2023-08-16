@@ -387,6 +387,15 @@
 		"Twitter": "TomAllnutt_"
 	},
 	{
+		"Name": "Ali Naci Küçük",
+		"Type": "Journalist/Reporter",
+		"Organization": "Hürriyet",
+		"Description": "Very reliable for Turkish players/leagues.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "AliNaciKucuk"
+	},
+	{
 		"Name": "Jason Burt",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Telegraph",
