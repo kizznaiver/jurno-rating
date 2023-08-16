@@ -369,6 +369,15 @@
 		"Twitter": "fansjavimiguel"
 	},
 	{
+		"Name": "Javi Mata",
+		"Type": "Journalist/Reporter",
+		"Organization": "Diario AS",
+		"Description": "Reliable for Villarreal related.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "javimatagil"
+	},
+	{
 		"Name": "Tom Allnutt",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Times",
