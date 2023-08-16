@@ -441,6 +441,15 @@
 		"Twitter": "BroadcastMoose"
 	},
 	{
+		"Name": "Mark Douglas",
+		"Type": "Journalist/Reporter",
+		"Organization": "inews.co.uk",
+		"Description": "Very reliable for Newcastle related.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "MsiDouglas"
+	},
+	{
 		"Name": "Alex Crook",
 		"Type": "Journalist/Reporter",
 		"Organization": "talkSPORT",
