@@ -594,6 +594,15 @@
 		"Twitter": "ArtdeRoche"
 	},
 	{
+		"Name": "Nice-Matin",
+		"Type": "Media",
+		"Organization": "Nice-Matin",
+		"Description": "Reliable local news outlet from Nice, France.",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": "Nice_Matin"
+	},
+	{
 		"Name": "Nizaar Kinsella",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Evening Standard",
