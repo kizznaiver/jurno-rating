@@ -210,10 +210,19 @@
 		"Name": "Rob Tanner",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Athletic",
-		"Description": "",
+		"Description": "Leicester City writer.",
 		"Reliability": 5,
 		"Goat": false,
 		"Twitter": "RobTannerLCFC"
+	},
+	{
+		"Name": "James Pearce",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "Liverpool writer.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "JamesPearceLFC"
 	},
 	{
 		"Name": "Adam Crafton",
@@ -570,7 +579,7 @@
 		"Name": "gunnerblog",
 		"Type": "Journalist/Reporter",
 		"Organization": "The Athletic",
-		"Description": "",
+		"Description": "Arsenal writer.",
 		"Reliability": 4.5,
 		"Goat": false,
 		"Twitter": "gunnerblog"
