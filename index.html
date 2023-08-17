@@ -134,7 +134,7 @@
                                 <span class="hidden sm:inline-block text-gray-300" ng-if="journalist.Twitter">
                                     ({{ journalist.Name }})
                                 </span>
-                                <a href="https://www.google.com/search?q={{ journalist.Name}}"
+                                <a href="https://www.google.com/search?q={{ journalist.Name }} {{ journalist.Organization }}"
                                     ng-if="!journalist.Twitter"
                                     class="text-sm sm:text-base font-semibold text-amber-400 hover:text-amber-600 transition-colors duration-100">
                                     {{ journalist.Name }}

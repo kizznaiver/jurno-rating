@@ -837,6 +837,15 @@
 		"Twitter": "ianherbs"
 	},
 	{
+		"Name": "Simon Jones",
+		"Type": "Journalist/Reporter",
+		"Organization": "Mail Sport",
+		"Description": "",
+		"Reliability": 4.5,
+		"Goat": false,
+		"Twitter": ""
+	},
+	{
 		"Name": "HLN.BE",
 		"Type": "Media",
 		"Organization": "HLN",
