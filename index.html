@@ -134,14 +134,14 @@
                                 <span class="hidden sm:inline-block text-gray-300" ng-if="journalist.Twitter">
                                     ({{ journalist.Name }})
                                 </span>
+                                <span class="hidden sm:inline-block text-gray-300" ng-if="!journalist.Twitter">
+                                    (No Twitter 🤷)
+                                </span>
                                 <a href="https://www.google.com/search?q={{ journalist.Name }} {{ journalist.Organization }}"
                                     ng-if="!journalist.Twitter"
                                     class="text-sm sm:text-base font-semibold text-amber-400 hover:text-amber-600 transition-colors duration-100">
                                     {{ journalist.Name }}
                                 </a>
-                                <span class="hidden sm:inline-block text-gray-300" ng-if="!journalist.Twitter">
-                                    ({{ journalist.Organization }})
-                                </span>
                             </div>
                             <div class="flex items-center rounded-full bg-gray-900 py-2">
                                 <div class="hidden sm:block sm:px-2 text-xs font-semibold text-gray-300">
