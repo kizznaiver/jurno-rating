@@ -873,6 +873,15 @@
 		"Twitter": "lee_ryder"
 	},
 	{
+		"Name": "Gianluigi Longari",
+		"Type": "Journalist/Reporter",
+		"Organization": "Sportitalia",
+		"Description": "",
+		"Reliability": 3.5,
+		"Goat": false,
+		"Twitter": "Glongari"
+	},
+	{
 		"Name": "Pedro Sepúlveda",
 		"Type": "Journalist/Reporter",
 		"Organization": "SIC Notícias",
