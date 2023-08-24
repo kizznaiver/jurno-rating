@@ -621,6 +621,15 @@
 		"Twitter": "TimSpiers"
 	},
 	{
+		"Name": "Jay Harris",
+		"Type": "Journalist/Reporter",
+		"Organization": "The Athletic",
+		"Description": "Brentford writer.",
+		"Reliability": 5,
+		"Goat": false,
+		"Twitter": "jaydmharris"
+	},
+	{
 		"Name": "Nice-Matin",
 		"Type": "Media",
 		"Organization": "Nice-Matin",
