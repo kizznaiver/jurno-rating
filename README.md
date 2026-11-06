@@ -6,7 +6,7 @@ Realibility ratings of some journalists. Mostly football transfer related. This 
 
 ## No Pull Requests
 
-No pull requests, please. If you want to contribute or if you have any suggestion/correction, please tweet me [@tomiyxsu](https://twitter.com/tomiyxsu).
+No pull requests, please. If you want to contribute or if you have any suggestion/correction, please tweet me [@_malroth](https://twitter.com/_malroth).
 
 ## Credits
 
